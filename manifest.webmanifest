@@ -1,0 +1,20 @@
+{
+  "name": "打卡助手",
+  "short_name": "打卡助手",
+  "description": "科技风钉钉打卡提醒助手",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#070b14",
+  "background_color": "#05070f",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
